@@ -1789,6 +1789,24 @@
         }
     },
     {
+        "repoURL": "https://github.com/maboke123/raft-consensus-algorithm",
+        "name": "raft-core",
+        "authors": [
+            {
+                "name": "Mathias Bouhon Keulen",
+                "github": "maboke123"
+            }
+        ],
+        "language": "TypeScript",
+        "license": "MIT",
+        "features": {
+            "basic": true,
+            "persistence": true,
+            "logCompaction": true,
+            "membershipChanges": true
+        }
+    },
+    {
         "repoURL": "https://github.com/meatcompute/raft-consensus",
         "name": "meatcompute/raft-consensus",
         "authors": [
