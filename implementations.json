@@ -1790,7 +1790,7 @@
     },
     {
         "repoURL": "https://github.com/maboke123/raft-consensus-algorithm",
-        "name": "raft-core",
+        "name": "@maboke123/raft-core",
         "authors": [
             {
                 "name": "Mathias Bouhon Keulen",
